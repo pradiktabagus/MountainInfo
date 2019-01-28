@@ -1,7 +1,8 @@
-package com.traveller.mountain.info
+package com.traveller.mountain.info.Home
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.traveller.mountain.info.R
 
 class MainActivity : AppCompatActivity() {
 
